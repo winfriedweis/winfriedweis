@@ -7,5 +7,3 @@
 💞️ I'm looking to collaborate and learn through innovative projects, particularly those that involve secure software design and development. I'm always eager to take on new challenges and grow my expertise.
 
 📫 Feel free to reach out to me on GitHub to discuss shared interests. I’m always excited to connect with like-minded individuals in the community.
-
-Check the Remnote Link for my Learning Data & Second Brain. 
