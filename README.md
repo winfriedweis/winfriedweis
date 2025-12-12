@@ -1,6 +1,6 @@
 👋 Hi, I'm @njordev!
 
-👀 I'm an IT Specialist trainee in Application Development (Fachinformatiker Anwendungsentwicklung) with a strong focus on programming in Java. I'm also exploring other languages like C, C++, and TypeScript.
+👀 I’m an apprentice IT Specialist in application development (German: Fachinformatiker für Anwendungsentwicklung) with a strong focus on Java programming. I'm also exploring other languages like C, C++, and TypeScript.
 
 🌱 I'm expanding my skills in IT and programming, with a keen interest in building secure software structures, cybersecurity, and malware analysis. Additionally, I have a background in 3D modeling and animation, primarily using Blender.
 
