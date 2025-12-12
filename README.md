@@ -1,4 +1,4 @@
-👋 Hi, I'm @njordev!
+👋 Hi, I'm @winfriedweis!
 
 👀 I’m an apprentice IT Specialist in application development (German: Fachinformatiker für Anwendungsentwicklung) with a strong focus on Java programming. I'm also exploring other languages like C, C++, and TypeScript.
 
